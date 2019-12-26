@@ -1,0 +1,9 @@
+C:\Users\эд\Desktop\Chess2\Chess\Demo\bin\Debug\Demo.exe.config
+C:\Users\эд\Desktop\Chess2\Chess\Demo\bin\Debug\Demo.exe
+C:\Users\эд\Desktop\Chess2\Chess\Demo\bin\Debug\Demo.pdb
+C:\Users\эд\Desktop\Chess2\Chess\Demo\bin\Debug\Chess.dll
+C:\Users\эд\Desktop\Chess2\Chess\Demo\bin\Debug\Chess.pdb
+C:\Users\эд\Desktop\Chess2\Chess\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\эд\Desktop\Chess2\Chess\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\эд\Desktop\Chess2\Chess\Demo\obj\Debug\Demo.exe
+C:\Users\эд\Desktop\Chess2\Chess\Demo\obj\Debug\Demo.pdb
